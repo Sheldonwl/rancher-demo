@@ -1,4 +1,5 @@
 questions:
+namespace: default
 - variable: cow_color
   default: "blue"
   description: "The color of the cow!"
