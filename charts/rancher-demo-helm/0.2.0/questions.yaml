@@ -1,16 +1,15 @@
 questions:
 - variable: cow_color
-  default: "yellow"
-  description: "The colour of the cow!"
+  default: "blue"
+  description: "The color of the cow!"
   type: enum
-  label: Cow Colour
+  label: Cow Color
   required: true
-  group: "Color"
+  group: "Cow Color"
   options:
     - "yellow"
     - "red"
     - "orange"
-    - "yellow"
     - "olive"
     - "green"
     - "teal"
