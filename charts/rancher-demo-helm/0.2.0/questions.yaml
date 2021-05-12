@@ -1,6 +1,3 @@
-catagories: 
-- color
-namespace: default
 questions:
 - variable: cow_color
   default: "yellow"
@@ -8,6 +5,7 @@ questions:
   type: enum
   label: Cow Colour
   required: true
+  group: "Color"
   options:
     - "yellow"
     - "red"
