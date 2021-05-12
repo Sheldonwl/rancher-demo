@@ -1,3 +1,6 @@
+catagories: 
+- color
+namespace: default
 questions:
 - variable: cow_color
   default: "yellow"
