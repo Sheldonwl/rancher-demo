@@ -1,12 +1,11 @@
 questions:
-namespace: default
 - variable: cow_color
   default: "blue"
   description: "The color of the cow!"
   type: enum
   label: Cow Color
   required: true
-  group: "Cow Color"
+  group: "Color"
   options:
     - "yellow"
     - "red"
